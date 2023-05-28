@@ -2,7 +2,8 @@
 
 * [はてなブログ](https://kojiro-ueda.hatenablog.com/)
 * [hyperappによるブログ](https://naoki-tomita.github.io/blog/dist/index.html)
-* [microCMSで作ったブログ](https://naoki-tomita.github.io/micro-cms-blog/dist/#/entries)
+* [MicroCMSで作ったブログ](https://naoki-tomita.github.io/micro-cms-blog/dist/#/entries)
+* [MicroCMSで作ったブログ2](https://ku-tech.netlify.app/)
 
 ## Practice creating applications.
 ### [Zheleznaya](https://github.com/naoki-tomita/zheleznaya) 
