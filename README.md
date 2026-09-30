@@ -15,4 +15,4 @@ See [documentation](https://zheleznaya.netlify.app/)
 
 ### [nzxt](https://github.com/naoki-tomita/nzxt) 
 **nzxt** is server-side-rendering framework. Using Zheleznaya.
-See [documentation](https://www.nzxt.tech/)
+See [documentation](https://nzxt-docs.naoki-tomita.deno.net/)
